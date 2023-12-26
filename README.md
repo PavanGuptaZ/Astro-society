@@ -2,7 +2,9 @@
 
 Welcome to Astro-Society, a platform that brings together astrology enthusiasts. Follow the instructions below to set up and run the application on your local machine.
 
-
+<p align="center">
+  <img src="https://github.com/PavanGuptaZ/Astro-society/assets/144094802/89912aec-7964-4958-9cfb-01e190d20f4d" width="250">
+</p>
 
 ## Project 
 The project is completed using Redux Toolkit for state management and RTK Query for fetching data.
@@ -13,7 +15,7 @@ Feel free to explore and enjoy the Astro-Society platform!
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/****/****
+git clone https://github.com/PavanGuptaZ/Astro-society.git
 
   ```
 ## SetUp Environment keys
